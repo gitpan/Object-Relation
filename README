@@ -1,0 +1,17 @@
+Object::Relation - Advanced Object Relational Mapper
+==================================================
+
+INSTALLATION
+
+To install this module, type the following:
+
+   perl Build.PL
+   ./Build
+   ./Build test
+   ./Build install
+
+COPYRIGHT AND LICENSE
+
+Copyright (c) 2004-2006 Kineticode, Inc.
+info@obj_relode.com
+http://www.obj_relode.com/
